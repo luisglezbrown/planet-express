@@ -30,7 +30,7 @@ export default function Newsletter() {
                 required
             />
 
-            <input type="submit" />
+            <input type="submit" value="Subscribir"/>
       </form>
     )
 }
