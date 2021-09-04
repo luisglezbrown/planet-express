@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/planet-express/static/css/main.cf289fab.chunk.css",
+    "main.js": "/planet-express/static/js/main.9c9bd609.chunk.js",
+    "main.js.map": "/planet-express/static/js/main.9c9bd609.chunk.js.map",
+    "runtime-main.js": "/planet-express/static/js/runtime-main.80d962f0.js",
+    "runtime-main.js.map": "/planet-express/static/js/runtime-main.80d962f0.js.map",
+    "static/js/2.f4840a6f.chunk.js": "/planet-express/static/js/2.f4840a6f.chunk.js",
+    "static/js/2.f4840a6f.chunk.js.map": "/planet-express/static/js/2.f4840a6f.chunk.js.map",
+    "index.html": "/planet-express/index.html",
+    "static/css/main.cf289fab.chunk.css.map": "/planet-express/static/css/main.cf289fab.chunk.css.map",
+    "static/js/2.f4840a6f.chunk.js.LICENSE.txt": "/planet-express/static/js/2.f4840a6f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80d962f0.js",
+    "static/js/2.f4840a6f.chunk.js",
+    "static/css/main.cf289fab.chunk.css",
+    "static/js/main.9c9bd609.chunk.js"
+  ]
+}
