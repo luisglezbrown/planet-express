@@ -35,7 +35,7 @@ export default function OfferCountdown () {
             { minutesRemaining === 0 && secondsRemaining === 0
                 ? null
                 : <section className="offer">
-                    <h3> La oferta expira en {minutesRemaining}:{secondsRemaining < 10 ?  `0${secondsRemaining}` : secondsRemaining}</h3> 
+                    <h3> La oferta expira en {minutesRemaining}h. {secondsRemaining < 10 ?  `0${secondsRemaining}` : secondsRemaining}m.</h3> 
                 </section>
             }
         </>
